@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/rishab05/Wong-The-Librarian?color=blue&style=plastic)
 # Wong-The-Librarian
 Your personal Librarian for searching PDF and epub of Books and give you direct download link.
 Wong can open your default browser too and your book start downloading immediately for you.
